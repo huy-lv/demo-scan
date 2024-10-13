@@ -41,14 +41,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/huy-lv/react-native-demo-scan.git"
+    "url": "git+https://github.com/huy-lv/demo-scan.git"
   },
   "author": "huy-lv <huylv177@gmail.com> (https://github.com/huy-lv)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/huy-lv/react-native-demo-scan/issues"
+    "url": "https://github.com/huy-lv/demo-scan/issues"
   },
-  "homepage": "https://github.com/huy-lv/react-native-demo-scan#readme",
+  "homepage": "https://github.com/huy-lv/demo-scan#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
@@ -105,7 +105,7 @@
       "publish": true
     },
     "github": {
-      "release": true
+      "release": false
     },
     "plugins": {
       "@release-it/conventional-changelog": {
